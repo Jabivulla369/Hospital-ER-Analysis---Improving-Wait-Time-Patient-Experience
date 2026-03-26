@@ -185,9 +185,5 @@ This project demonstrates how data analytics can be used to identify critical op
 
 ---
 
-"C:\Users\shaik ismail\OneDrive\Desktop\Data Analyst Collection\D.A Projects Bucket\Guided Projects\Healthcare Project\Health Care Analysis Project\Hospital ER Analysis\Hospital ER Report.pdf"
-
----
-
 ## 🤝 Let's Connect
 If you found this project useful or have feedback, feel free to connect with me!
